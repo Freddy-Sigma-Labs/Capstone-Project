@@ -1,5 +1,5 @@
 # Welcome to my Capstone Project. 
-## Freddy Martinez Rosero
+**Freddy Martinez Rosero**
 
 For this project, I decided to design a small game of minesweeper. You can enter values for width, height, and the number of mines in play. Once you do, a board will be generated and you can begin the game. This game was developed using Python 3.10
 
